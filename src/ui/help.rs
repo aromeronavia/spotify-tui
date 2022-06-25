@@ -163,7 +163,7 @@ pub fn get_help_docs(key_bindings: &KeyBindings) -> Vec<Vec<String>> {
       String::from("Selected block"),
     ],
     vec![
-      String::from("Save track in list or table"),
+      String::from("Save to your library"),
       String::from("s"),
       String::from("Selected block"),
     ],
